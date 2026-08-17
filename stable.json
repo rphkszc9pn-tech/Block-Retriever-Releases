@@ -1,0 +1,10 @@
+{
+  "product": "Block Retriever",
+  "channel": "stable",
+  "version": "2.4.2",
+  "published_at": "2026-08-17T21:33:00Z",
+  "notes": "Adds free ntfy push notifications for confirmed block alerts.",
+  "download_url": "https://github.com/rphkszc9pn-tech/Block-Retriever-Releases/releases/download/v2.4.2/Block-Retriever-v2.4.2.exe",
+  "sha256": "d257fccc7ac2491a11f2947539780e1f981270be0d9f0012f28821bb5f688ac5",
+  "mandatory": false
+}
