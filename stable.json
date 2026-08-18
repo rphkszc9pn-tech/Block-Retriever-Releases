@@ -1,0 +1,10 @@
+{
+  "product": "Block Retriever",
+  "channel": "stable",
+  "version": "2.4.13",
+  "published_at": "2026-08-18T12:18:50Z",
+  "notes": "Adds Chance, Value, and Overall dashboard Solo Advisor rankings plus a one-click Rescan control.",
+  "download_url": "https://github.com/rphkszc9pn-tech/Block-Retriever-Releases/releases/download/v2.4.13/Block-Retriever-v2.4.13.exe",
+  "sha256": "2e42f7395a1dd43dd4e7edf138fe1950bb921f0c2a6d110cac60c483056b2578",
+  "mandatory": false
+}
