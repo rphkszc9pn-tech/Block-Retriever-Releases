@@ -1,0 +1,10 @@
+{
+  "product": "Block Retriever",
+  "channel": "stable",
+  "version": "3.0.0-alpha.24.10.35-native",
+  "published_at": "2026-09-08T05:30:00Z",
+  "notes": "Fixes Bitaxe/AxeOS Quick Switch compatibility across firmware versions. Restores pool switching for firmware that returns an unknown route error on the newer pool-slot API.",
+  "download_url": "https://github.com/rphkszc9pn-tech/Block-Retriever-Releases/releases/download/v3.0.0-alpha.24.10.35-native/Block-Retriever-v3.0.0-alpha.24.10.35-native.exe",
+  "sha256": "476c498bd80de302fb056776d6d2caec3171d8fe99aefd6c9ba5f642e82c0c49",
+  "mandatory": false
+}
