@@ -1,0 +1,10 @@
+{
+  "product": "Block Retriever",
+  "channel": "stable",
+  "version": "3.0.1-alpha.24.10.39-native",
+  "published_at": "2026-09-09T21:00:00-04:00",
+  "notes": "Updater version-comparison fix release. Includes the confirmed Bitaxe/AxeOS pool switching fix, lifetime-share display changes, and anonymous active-install heartbeat.",
+  "download_url": "https://github.com/rphkszc9pn-tech/Block-Retriever-Releases/releases/download/v3.0.1-alpha.24.10.39-native/Block-Retriever-v3.0.1-alpha.24.10.39-native.exe",
+  "sha256": "a7c621bfa316e6315ceedccdcbf4ee8bbc314ba3f4b9d055fc574271a9ba465f",
+  "mandatory": false
+}
