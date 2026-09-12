@@ -1,0 +1,10 @@
+{
+  "product": "Block Retriever",
+  "channel": "stable",
+  "version": "3.0.1-alpha.24.10.40-native",
+  "published_at": "2026-09-12T00:23:00-04:00",
+  "notes": "Added NerdAxe / NerdQaxe support.",
+  "download_url": "https://github.com/rphkszc9pn-tech/Block-Retriever-Releases/releases/download/v10.40.1/Block-Retriever-v10.40.1.exe",
+  "sha256": "d8e25f91a9ab4a9594616e1ecd8df4351e70d4f028f6d5237f2560849b354b6d",
+  "mandatory": false
+}
