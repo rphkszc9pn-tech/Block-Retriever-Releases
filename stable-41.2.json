@@ -1,0 +1,10 @@
+{
+  "product": "Block Retriever",
+  "channel": "stable",
+  "version": "3.0.1-alpha.24.10.41.2",
+  "published_at": "2026-09-16T04:15:00-04:00",
+  "notes": "Restores the anonymous active-session heartbeat and keeps the BR + paw branding.",
+  "download_url": "https://github.com/rphkszc9pn-tech/Block-Retriever-Releases/releases/download/v3.0.1-alpha.24.10.41.2/Block-Retriever-v3.0.1-alpha.24.10.41.2-GITHUB.exe",
+  "sha256": "66546611c6ca011870335818fa1d2b096f79a7cfdf42459aff777f7e87e501ad",
+  "mandatory": false
+}
